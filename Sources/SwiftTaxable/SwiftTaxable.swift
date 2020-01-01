@@ -1,5 +1,6 @@
+import Foundation
 
-struct SwiftTaxable {
+class SwiftTaxable: NSObject {
     
     static let shared = SwiftTaxable()
     
