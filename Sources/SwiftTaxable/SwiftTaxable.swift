@@ -1,10 +1,10 @@
 import Foundation
 
-class SwiftTaxable: NSObject {
+public final class SwiftTaxable: NSObject {
     
-    static let shared = SwiftTaxable()
+    public static let shared = SwiftTaxable()
     
-    func priceTag(productCategoryNumber: Int) -> Float {
+    public func priceTag(productCategoryNumber: Int) -> Float {
         var coursePrice = 0.00
         switch productCategoryNumber {
         case 1:
@@ -67,7 +67,7 @@ class SwiftTaxable: NSObject {
         return Float(coursePrice)
     }
     
-    func taxable(state: String, city: String) -> Float {
+    public func taxable(state: String, city: String) -> Float {
         let cityName = Constants.shared
         
         if state == "WA" {
