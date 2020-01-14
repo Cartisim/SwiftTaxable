@@ -71,7 +71,7 @@ public final class SwiftTaxable: NSObject {
         let cityName = Constants.shared
         
         if state == "WA" {
-            let washingtonStateTax = 0.06
+            let washingtonStateTax = 0.065
             var tax = 0.0000
             switch city {
             case "Aberdeen":
