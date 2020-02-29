@@ -34,7 +34,7 @@ struct Constants {
     let Anacortes                                = 0.022
     let Arlington                                = 0.027
     let Asotin                                   = 0.012
-    let Asotin_County_Unincorp_Areas             = 0.012
+    let Asotin_County_Unincorp_Areas             = 0.015
     let Auburn_King_County                       = 0.035
     let Auburn_King_County_Non_RTA               = 0.021
     let Auburn_Pierce_County                     = 0.034
@@ -104,7 +104,7 @@ struct Constants {
     let Douglas_County_Unincorp_Areas            = 0.013
     let Douglas_County_Unincorp_PTBA             = 0.018
     let DuPont                                      = 0.028
-    let Duvall                                      = 0.021
+    let Duvall                                      = 0.023
     let East_Wenatchee                           = 0.018
     let Eatonville                               = 0.014
     let Edgewood                                 = 0.034
@@ -124,7 +124,7 @@ struct Constants {
     let Farmington                               = 0.013
     let Federal_Way                              = 0.035
     let Ferndale                                 = 0.022
-    let Ferry_County_Unincorp_Areas              = 0.012
+    let Ferry_County_Unincorp_Areas              = 0.015
     let Fife                                     = 0.034
     let Fircrest                                 = 0.034
     let Forks                                    = 0.020
@@ -133,8 +133,8 @@ struct Constants {
     let Friday_Harbor                            = 0.018
     let Garfield                                 = 0.013
     let Garfield_County_Unincorp_Areas           = 0.014
-    let George                                   = 0.014
-    let Gig_Harbor                               = 0.020
+    let George                                   = 0.016
+    let Gig_Harbor                               = 0.022
     let Gig_Harbor_HBZ                              = 0.020
     let Gold_Bar                                 = 0.025
     let Goldendale                               = 0.010
@@ -142,8 +142,8 @@ struct Constants {
     let Grandview                                  = 0.014
     let Granger                                  = 0.014
     let Granite_Falls                            = 0.025
-    let Grant_County_Unincorp_Areas              = 0.014
-    let Grays_Harbor_County_Unincorp_Areas       = 0.023
+    let Grant_County_Unincorp_Areas              = 0.017
+    let Grays_Harbor_County_Unincorp_Areas       = 0.024
     let Hamilton                                 = 0.020
     let Harrah                                      = 0.014
     let Harrington                               = 0.015
@@ -233,13 +233,13 @@ struct Constants {
     let North_Bend                               = 0.024
     let North_Bonneville                         = 0.012
     let Northport                                = 0.011
-    let Oak_Harbor                               = 0.022
+    let Oak_Harbor                               = 0.024
     let Oakesdale                                = 0.013
     let Oakville                                 = 0.023
     let Ocean_Shores                             = 0.025
     let Odessa                                   = 0.015
     let Okanogan                                 = 0.018
-    let Okanogan_County_Unincorp_Areas           = 0.013
+    let Okanogan_County_Unincorp_Areas           = 0.015
     let Okanogan_County_Unincorp_PTBA            = 0.017
     let Olympia                                  = 0.028
     let Omak                                     = 0.017
@@ -261,7 +261,7 @@ struct Constants {
     let Pierce_County_Unincorp_PTBA_HBZ          = 0.020
     let Pierce_County_Unincorp_PTBA_Non_RTA      = 0.020
     let Pomeroy                                  = 0.014
-    let Port_Angeles                             = 0.022
+    let Port_Angeles                             = 0.023
     let Port_Orchard                             = 0.025
     let Port_Townsend                            = 0.025
     let Poulsbo                                  = 0.025
@@ -333,7 +333,7 @@ struct Constants {
     let Tacoma                                   = 0.037
     let Tekoa                                    = 0.013
     let Tenino                                   = 0.014
-    let Thurston_County_Unincorp_Areas           = 0.014
+    let Thurston_County_Unincorp_Areas           = 0.015
     let Thurston_County_Unincorp_PTBA            = 0.026
     let Tieton                                   = 0.014
     let Toledo                                   = 0.013
@@ -376,7 +376,7 @@ struct Constants {
     let Woodway                                  = 0.039
     let Yacolt                                   = 0.019
     let Yakima                                   = 0.017
-    let Yakima_County_Unincorp_Areas             = 0.014
+    let Yakima_County_Unincorp_Areas             = 0.015
     let Yarrow_Point                             = 0.035
     let Yelm                                     = 0.026
     let Zillah                                   = 0.014
